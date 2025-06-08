@@ -6,7 +6,7 @@
 
 [How to Play](http://blog.heroicfisticuffs.com/tank-control-a-2018-7drl-success/)
 
-My submission for the [2018 7-Day Roguelike Challenge](https://itch.io/jam/7drl-challenge-2018). *Tank Control* is an experimental roguelike with traditional mechanics combined where you control a WWII-style tank. Tank movement and Turret movement are handled separately, and rotating the tank takes a turn, forcing some tactical decision making.
+My submission for the [2018 7-Day Roguelike Challenge](https://itch.io/jam/7drl-challenge-2018). *Tank Control* is an experimental roguelike with traditional mechanics except that you control a WWII-style tank. Tank movement and Turret movement are handled separately, and rotating the tank takes a turn, forcing some tactical decision making.
 
 Based on a now-obsolete fork of the original [2017 7-Day Rogueliek Challenge Entry - Hardpointe (now known as Warning Call)](https://warningcall.space/) codebase.
 
