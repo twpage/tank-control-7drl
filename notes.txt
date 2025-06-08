@@ -1,0 +1,26 @@
+-----new install
+npm init
+npm install --save-dev typescript webpack ts-loader css-loader @types/rot-js rot-js postal @types/postal
+
+
+-----win7 / afc
+
+set PATH=%PATH%;"c:\Dev\node-v6.11.2-win-x64\";"C:\Dev\PortableGit\bin"
+npm run build -- --watch
+
+
+-----win10
+$env:Path += "C:\Applications\PortableGit\bin\"
+
+https://stackoverflow.com/questions/43364233/vs-code-connect-to-remote-git-repository-and-push-local-files-to-new-remote-re
+https://docs.webfaction.com/software/git.html
+
+
+-----git commands
+git clone http://twpage@heroicfisticuffs.com/git/hp3dev.git .
+git remote update
+git status
+git commit -a -m "words"
+git push
+
+

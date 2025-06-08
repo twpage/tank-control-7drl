@@ -1,0 +1,18 @@
+x turn powers into GUNS
+x separate movement (forward, back) keys
+x from turning (rotate CW, rotate CCW) tank
+x from turning turret
+x crush boulders into rocks
+- enemy tanks? (jeeps?)
+x soldier guy
+- RPG soldier guy
+- mortars
+- fortifications
+
+x make it so turret can aim at empty ground!
+
+x FOV Octants
+  3|1
+ 7 * 5
+ 6 * 4
+  2|0
